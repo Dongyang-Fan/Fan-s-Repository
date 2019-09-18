@@ -1,0 +1,7 @@
+D:\VSStudio\helloworld\2048\bin\Debug\2048.exe.config
+D:\VSStudio\helloworld\2048\bin\Debug\2048.exe
+D:\VSStudio\helloworld\2048\bin\Debug\2048.pdb
+D:\VSStudio\helloworld\2048\obj\Debug\2048.csprojAssemblyReference.cache
+D:\VSStudio\helloworld\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+D:\VSStudio\helloworld\2048\obj\Debug\2048.exe
+D:\VSStudio\helloworld\2048\obj\Debug\2048.pdb
